@@ -778,3 +778,24 @@ What is the next step you should take to best fulfill your responsibilities and 
 - [ ] Take the server offline until your investigation is complete.
 - [x] Take a snapshot of the compromised virtual server for your investigation.
 - [ ] Restart the server. Remediate the issue after business hours.
+
+#### Q102. In response to an alert regarding a possible security incident, you are analyzing the logs for a web application. In the process, you see the following string: ./../../../var/secrets. What type of attack was most likely attempted against the application?
+
+- [ ] session hijacking
+- [ ] cross-site scripting
+- [ ] directory traversal
+- [ ] brute force
+
+#### Q103. Site-to-site VPN provides access from one network address space (192.168.0.0/24) to another network address space?
+
+- [ ] 192.168.0.1/24
+- [ ] 10.10.0.0/24
+- [ ] 192.168.0.2/24
+- [ ] 192.168.0.3/24
+
+#### Q104. What action is most likely to simplify security staff training, improve integration between security compnents, and reduce risk to the business? (Choose the best answer)
+
+- [ ] adopting a "trust but verify" approach to security
+- [ ] adopting a "best-of-breed" approach to security
+- [ ] adopting a "best-in-suite" approach to security
+- [ ] adopting a "defense-in-depth" approach to security
